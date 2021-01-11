@@ -1,6 +1,6 @@
 #########################################################################################
 #
-#       PLOTTING FUNCTIONS SPECIFICALY FOR CREATING BUZZSAW PLOTS
+#       PLOTTING FUNCTIONS SPECIFICALLY FOR CREATING BUZZSAW PLOTS
 #
 #         Also contains other helper and plotting functions for processing 
 #           results from LASSO drug prediction models
